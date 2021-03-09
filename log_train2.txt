@@ -668,3 +668,28 @@ train_mean loss: 0.606738
 train_accuracy: 0.805285
 test_mean loss: 0.795701
 test_accuracy: 0.763776
+-----39------
+train_mean loss: 0.599741
+train_accuracy: 0.805894
+test_mean loss: 0.785922
+test_accuracy: 0.755267
+-----40------
+train_mean loss: 0.593991
+train_accuracy: 0.805081
+test_mean loss: 0.754959
+test_accuracy: 0.769854
+-----41------
+train_mean loss: 0.557844
+train_accuracy: 0.813923
+test_mean loss: 0.783881
+test_accuracy: 0.756078
+-----42------
+train_mean loss: 0.542309
+train_accuracy: 0.824898
+test_mean loss: 0.734142
+test_accuracy: 0.780794
+-----43------
+train_mean loss: 0.535025
+train_accuracy: 0.821240
+test_mean loss: 0.717071
+test_accuracy: 0.779173
